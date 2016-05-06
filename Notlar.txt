@@ -1,0 +1,2 @@
+id1 arit sinav1 40
+id1 arit sinav2 50
